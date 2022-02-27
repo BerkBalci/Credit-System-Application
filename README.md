@@ -26,6 +26,8 @@ I used the layer architecture because it is easy to manage and has a flexible st
 
 *Maven
 
+# Commands
+
 After running the application you can see all customers. For that you need to use http://www.localhost:8080/api/customer/all endpoint with get request.
 
 If you want to find one customer especially you can find the customer via nationalId. For that you need to use http://www.localhost:8080/api/customer/nationalId endpoint. You need to use param,nationalId for key and national id number for value with get request.
