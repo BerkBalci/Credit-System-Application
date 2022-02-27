@@ -5,16 +5,16 @@ Patika Paycore Bitirme Projesi
 I used the layer architecture because it is easy to manage and has a flexible structure.
 
 #Used Technologies
-Java 8
-Spring Boot
-Spring Data JPA
-Restful API
-Swagger documentation
-MapStruct
-Lombok
-H2 database
-JUnit Mockito
-Maven
+*Java 8
+*Spring Boot
+*Spring Data JPA
+*Restful API
+*Swagger documentation
+*MapStruct
+*Lombok
+*H2 database
+*JUnit Mockito
+*Maven
 
 After running the application you can see all customers. For that you need to use http://www.localhost:8080/api/customer/all endpoint with get request.
 
