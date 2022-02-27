@@ -54,5 +54,7 @@ If you want to make application with one customer you can use http://www.localho
 
 
 Except those you can find customer with id http://www.localhost:8080/api/customer/get and post request.
+
 Update customer with id http://www.localhost:8080/api/customer/update/{id} and put request(Remember you need to fill all not null entities)
+
 Delete customer with id http://www.localhost:8080/api/customer/delete/id={id} and delete request.
