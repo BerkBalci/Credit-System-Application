@@ -35,6 +35,7 @@ If you want to find one customer especially you can find the customer via nation
 If you want to add customer you need to use http://www.localhost:8080/api/customer/add endpoint with post request. You need to fill the body like that :
 
 {
+    
     "nationalId":"MUST BE 11 CHARACTER",
     
     "name":"NAME HERE" ,
