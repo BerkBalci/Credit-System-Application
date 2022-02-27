@@ -50,7 +50,7 @@ If you want to add customer you need to use http://www.localhost:8080/api/custom
 
 After you created the customer it's credit score will be randomly generated between 0-1500.
 
-If you want to make application with one customer you can use http://www.localhost:8080/api/customer/application endpoint with get request. It will return customer's information,result of credit application(Comfirmed or Uncomfirmed) and defined credit limit.
+If you want to make application with one customer you can use http://www.localhost:8080/api/customer/application endpoint with get request. It will return customer's information,result of credit application(Confirmed or Unconfirmed) and defined credit limit.
 
 
 Except those you can find customer with id http://www.localhost:8080/api/customer/get and post request.
